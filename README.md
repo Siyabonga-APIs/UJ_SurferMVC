@@ -2,11 +2,11 @@
 
 > **Independent Matric Qualification & APS Eligibility Explorer for the University of Johannesburg**
 
-[![.NET](https://img.shields.io/badge/.NET-9.0%20%7C%208.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/.NET-10.0%20LTS-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-MVC-2C7BBE?logo=dotnet&logoColor=white)](https://learn.microsoft.com/aspnet/core)
 [![Entity Framework Core](https://img.shields.io/badge/EF%20Core-SQL%20Server-blue?logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/ef/core/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![POPIA Compliant](https://img.shields.io/badge/Compliance-POPIA%20Act%204%20(2013)-success)](#privacy--legal-disclaimer)
+[![POPIA Compliant](https://img.shields.io/badge/Compliance-POPIA%20Act%204%20(2013)-success)](#-privacy--legal-disclaimer)
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 📖 Overview
 
-**UJ Surfer** is an academic planning application created to help South African matriculants, educators, and prospective tertiary applicants seamlessly navigate admission prerequisites. 
+**UJ Surfer** is an academic planning application created to help South African matriculants, educators, and prospective tertiary applicants seamlessly navigate university admission prerequisites.
 
 Instead of manually leafing through the 100-page University of Johannesburg prospectus, users input their seven National Senior Certificate (NSC) subjects and marks once. The system automatically computes their Admission Point Score (APS) according to official South African grading conversions and cross-checks their profile against **179+ qualifications across all 8 faculties and college divisions**.
 
@@ -27,7 +27,7 @@ Instead of manually leafing through the 100-page University of Johannesburg pros
 ## ✨ Key Features
 
 - **Automated APS Engine:**
-  - Converts percentage scores (0–100%) to official NSC Achievement Levels (1–7).
+  - Converts percentage marks (0–100%) to official NSC Achievement Levels (1–7).
   - Automatically identifies the best 6 school subjects while strictly **excluding Life Orientation (LO)** in accordance with UJ admission rules.
 - **Unified 7-Subject Matric Entry:**
   - Two official languages (Language of Learning/Teaching like English + Second Language).
@@ -66,7 +66,7 @@ All data is pre-seeded from the official **2027 UJ Undergraduate Prospectus**:
 
 ## 🛠️ Architecture & Tech Stack
 
-- **Backend:** C# (.NET 8 / .NET 9), ASP.NET Core MVC
+- **Backend:** C# (.NET 10 LTS), ASP.NET Core MVC
 - **Authentication & Authorization:** ASP.NET Core Identity with custom `ApplicationUser`
 - **ORM / Database:** Entity Framework Core (Code-First) & Microsoft SQL Server
 - **Frontend:** Razor Views, Bootstrap 5.3, Vanilla JavaScript
@@ -83,8 +83,8 @@ All data is pre-seeded from the official **2027 UJ Undergraduate Prospectus**:
 
 ### Prerequisites
 
-- [.NET SDK (8.0 or 9.0)](https://dotnet.microsoft.com/download)
-- [Visual Studio 2022+](https://visualstudio.microsoft.com/) or [VS Code](https://code.visualstudio.com/)
+- [.NET 10 SDK (LTS)](https://dotnet.microsoft.com/download)
+- [Visual Studio 2022 / 2026+](https://visualstudio.microsoft.com/) or [VS Code](https://code.visualstudio.com/) with C# Dev Kit
 - [SQL Server](https://www.microsoft.com/sql-server/) (LocalDB, Express, or Developer Edition)
 
 ### Installation
