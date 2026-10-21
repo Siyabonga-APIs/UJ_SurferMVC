@@ -1,0 +1,213 @@
+{
+  "name": "Faculty of Humanities",
+  "acronym": "HUM",
+  "general_notes": "A principal objective of the Faculty is to produce graduates capable of advanced analytical and critical thinking skills, independent and progressive thinking, allowing them to access and contribute towards all forms of human knowledge.",
+  "contacts": [
+    {
+      "campus": "APK",
+      "telephone": "011 559 2197",
+      "email": "humanitiesreceph@uj.ac.za"
+    }
+  ],
+  "programmes": [
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Social Work (4 years)",
+      "code": "B7025Q",
+      "name": "SOCIAL WORK",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Social Worker in Private Sector, Welfare Organisations and Government or Non-Governmental Organisations.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Arts (3 years)",
+      "code": "B7023Q",
+      "name": "BA (BACHELOR OF ARTS)",
+      "campus": "APK",
+      "minimum_aps_text": "27",
+      "minimum_aps_value": 27,
+      "career": "Anthropologist, Ethicist, Social Responsibility Officer, Manager of Multicultural and Gender Affairs, General Manager, Teacher, Human Resources Development, Public Governance, Civil Service, Politics, Financial Sector, Journalist, Development Planner, Development Administrator, Researcher, work for NGOs, Government or Private Sector, Director, Producer, Script Writer, Production Crew, Journalism, Copywriting, Corporate Journalism, Translators, Interpreters, Language Planners, Copywriters, Copy Editors, Literary Reviewers, Visual/Literary Specialists, Language Teachers/Trainers, Public Relations, Marketing, Human Resources, Account Manager, Strategic Planner, Media Planner, Brand Manager, Marketing Communication Practitioner, Communication Researcher, Communication Consultant, Psychologist (postgraduate studies required).",
+      "notes": "Technical Mathematics is not accepted, and where Mathematics is selected as a major, the Faculty of Science's minimum requirements for Grade 12 Mathematics (4 (50%+)) for the module registration should be met.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Arts (3 years)",
+      "code": "B7026Q",
+      "name": "BA with specialisation in LANGUAGE PRACTICE",
+      "campus": "APK",
+      "minimum_aps_text": "27",
+      "minimum_aps_value": 27,
+      "career": "Language practitioner (translator, text editor, interpreter), language planner, language manager, lexicographer, terminologist, copy writer, journalist, subtitler, plain language specialist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Arts (3 years)",
+      "code": "B7024Q",
+      "name": "BA with specialisation in POLITICS, ECONOMICS AND TECHNOLOGY",
+      "campus": "APK",
+      "minimum_aps_text": "27 with Mathematics",
+      "minimum_aps_value": 27,
+      "career": "Apprentice data analyst, Researcher, Account manager, Sales data management and development, Business development, Trainee analyst, Import/export administrator, Financial operations, Information management, Economic analysis, Postgraduate study.",
+      "notes": "Technical Mathematics is not accepted.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Arts (3 years)",
+      "code": "B7015Q",
+      "name": "COMMUNITY DEVELOPMENT AND LEADERSHIP",
+      "campus": "SWC",
+      "minimum_aps_text": "27",
+      "minimum_aps_value": 27,
+      "career": "Municipalities, Government Departments (e.g. Department of Social Development) and Non-Government Organisations (focusing on development work).",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Arts Extended Degree (4 years)",
+      "code": "B7EX2Q",
+      "name": "BA with specialisation in DEVELOPMENT STUDIES",
+      "campus": "APK",
+      "minimum_aps_text": "24-26 with English 5 (60%+) OR 27 with English 4 (50%+)",
+      "minimum_aps_value": 24,
+      "career": "Social development and/or social changes practitioner; researchers of social change; activists who struggle and campaign for a different world and system; foreign service, enterprise and organisational development.",
+      "notes": "In addition, interviews will be conducted with individual applicants. The APS score in English determines the range of the overall APS score.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+) or 4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Arts Extended Degree (4 years)",
+      "code": "B7EX3Q",
+      "name": "BA with specialisation in LINGUISTICS",
+      "campus": "APK",
+      "minimum_aps_text": "24-26 with English 5 (60%+) OR 27 with English 4 (50%+)",
+      "minimum_aps_value": 24,
+      "career": "Education - teaching of English to speakers of other languages; training; research and administration; business communication in the public sector; market research; Interpreting and translating; and academic career.",
+      "notes": "In addition, interviews will be conducted with individual applicants. The APS score in English determines the range of the overall APS score.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+) or 4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Arts Extended Degree (4 years)",
+      "code": "B7EX4Q",
+      "name": "BA with specialisation in LINGUISTICS AND LANGUAGE PRACTICE",
+      "campus": "APK",
+      "minimum_aps_text": "24-26 with English 5 (60%+) OR 27 with English 4 (50%+)",
+      "minimum_aps_value": 24,
+      "career": "Language practitioner (translator, text editor, interpreter), language planner, language manager, lexicographer, terminologist, copy writer, journalist, subtitler, plain language specialist.",
+      "notes": "In addition, interviews will be conducted with individual applicants. The APS score in English determines the range of the overall APS score.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+) or 4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Arts Extended Degree (4 years)",
+      "code": "B7EX5Q",
+      "name": "BA with specialisation in STRATEGIC COMMUNICATION",
+      "campus": "APK",
+      "minimum_aps_text": "24-26 with English 5 (60%+) OR 27 with English 4 (50%+)",
+      "minimum_aps_value": 24,
+      "career": "Brand managers, social media strategists, digital data analysts, online advertising planners, digital marketing managers, advertising and public relations specialists, media planners, development officers, communication officers, communication and reputation managers, stakeholder managers, corporate social responsibility specialists, media relations managers, company spokespersons to name a few.",
+      "notes": "In addition, interviews will be conducted with individual applicants. The APS score in English determines the range of the overall APS score.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+) or 4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma (3 years)",
+      "code": "D7002Q",
+      "name": "PUBLIC RELATIONS AND COMMUNICATION",
+      "campus": "APB",
+      "minimum_aps_text": "25",
+      "minimum_aps_value": 25,
+      "career": "A PR Practitioner is involved with an organisation's communication strategy.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Extended Diploma (4 years)",
+      "code": "D7EX2Q",
+      "name": "PUBLIC RELATIONS AND COMMUNICATION (EXTENDED)",
+      "campus": "APB",
+      "minimum_aps_text": "24",
+      "minimum_aps_value": 24,
+      "career": "A PR Practitioner is involved with an organisation's communication strategy.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    }
+  ]
+}

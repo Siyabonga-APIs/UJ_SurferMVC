@@ -1,0 +1,1068 @@
+{
+  "name": "College of Business and Economics",
+  "acronym": "CBE",
+  "general_notes": "Due to ongoing programme reviews and the current HEQSF alignment process there may be changes in diploma and degree programmes in terms of range and mix of qualifications, curricula and admission requirements.",
+  "contacts": [
+    {
+      "campus": "APK",
+      "telephone": "011 559 2475 / 011 559 2492 / 011 559 3861",
+      "email": "AskCBE@uj.ac.za / lnuku@uj.ac.za"
+    },
+    {
+      "campus": "APB",
+      "telephone": "011 559 1348 / 011 559 1474",
+      "email": "oupat@uj.ac.za"
+    },
+    {
+      "campus": "SWC",
+      "telephone": "011 559 5559 / 011 559 5709",
+      "email": "matebogom@uj.ac.za"
+    }
+  ],
+  "programmes": [
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor Degrees (3 years)",
+      "code": "B34CAQ",
+      "name": "ACCOUNTING (CA)",
+      "campus": "APK",
+      "minimum_aps_text": "33",
+      "minimum_aps_value": 33,
+      "career": "Chartered Accountant - CA (SA).",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor Degrees (3 years)",
+      "code": "B34HNQ",
+      "name": "HOSPITALITY MANAGEMENT",
+      "campus": "APB",
+      "minimum_aps_text": "26 with Maths/Tech Maths OR 28 with Mathematical Literacy",
+      "minimum_aps_value": 26,
+      "career": "This degree serves the needs of students who aspire to move into leadership positions in the Hospitality Industry i.e. General Manager, Financial Manager amongst other positions in the industry.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor Degrees (3 years)",
+      "code": "B34HRQ",
+      "name": "HUMAN RESOURCE MANAGEMENT",
+      "campus": "APK",
+      "minimum_aps_text": "26 with Maths/Tech Maths OR 28 with Mathematical Literacy",
+      "minimum_aps_value": 26,
+      "career": "Human Resource Practitioners, Personnel Manager, Personnel Officer, Training Manager, Recruitment and Selection Officer. Graduates may register as HR Practitioners with the South African Board of People Practices (SABPP) to encourage regulated, standardised HR practices.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor Degrees (3 years)",
+      "code": "B3417Q",
+      "name": "INDUSTRIAL PSYCHOLOGY",
+      "campus": "APK",
+      "minimum_aps_text": "26 with Maths OR 28 with Maths Lit",
+      "minimum_aps_value": 26,
+      "career": "HR Practitioners, Specialist dealing with the problems or challenges arising from employees' relationship within the work environment.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor Degrees (3 years)",
+      "code": "B34TDQ",
+      "name": "TOURISM DEVELOPMENT AND MANAGEMENT",
+      "campus": "APB",
+      "minimum_aps_text": "26 with Maths/Tech Maths OR 28 with Mathematical Literacy",
+      "minimum_aps_value": 26,
+      "career": "Entrepreneur, Travel Agent, Tour Guide, Tour Operator, Event and Conference Organiser, Public Relations, Marketing, Leisure Activity Co-ordinator, Visa Consultant, Researcher, Lecturer, Car Rental Agent, Development Consultant, Corporate Consulting, National, Provincial and Local Government Tourism Departments and Agencies, Technical Writer and Editor, Website Developer and Manager, Travel Blogger, Sales Co-ordinator and Manager.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Arts Degree (3 years)",
+      "code": "B34PSQ / B34PKQ",
+      "name": "PUBLIC MANAGEMENT AND GOVERNANCE",
+      "campus": "SWC / APK",
+      "minimum_aps_text": "26 with Maths/Tech Maths OR 28 with Mathematical Literacy",
+      "minimum_aps_value": 26,
+      "career": "Public Managers in State Departments, Provincial Departments and Municipalities, Public, Private and NGO Sector, Administrative and Managerial Positions.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Commerce Degree (3 years)",
+      "code": "B34A5Q",
+      "name": "ACCOUNTING",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Financial Manager, Accountant, Internal Auditor, Tax Consultant.",
+      "notes": "Does not provide direct access to the Postgraduate Diploma in Accounting Science without bridging programme.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Commerce Degree (3 years)",
+      "code": "B34BMQ",
+      "name": "BUSINESS MANAGEMENT",
+      "campus": "SWC / APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Training Manager, HRD Manager, Employment Relations Manager, Product Development Manager, Branch Manager, General Manager, Change Facilitator, Management Consultant, Entrepreneur, Business Innovator.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Commerce Degree (3 years)",
+      "code": "B3N14Q",
+      "name": "ECONOMICS AND ECONOMETRICS",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Economist, Econometrician, Economic Analyst, Forecaster, Economic Planner.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Commerce Degree (3 years)",
+      "code": "B1CEMQ",
+      "name": "ENTREPRENEURIAL MANAGEMENT",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Business Owner, Marketing Manager, Consultant, Business Manager, Financial Manager.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Commerce Degree (3 years)",
+      "code": "B34FMQ",
+      "name": "FINANCE",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Financial Manager, Stockbroker, Accountant, Financial Consultant, Investment Advisor.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Commerce Degree (3 years)",
+      "code": "B34IMQ",
+      "name": "INFORMATION MANAGEMENT",
+      "campus": "APK",
+      "minimum_aps_text": "26 with Maths OR 28 with Mathematical Literacy",
+      "minimum_aps_value": 26,
+      "career": "Information Manager, Knowledge Manager, Researcher, Competitive Intelligence Officer, Records Manager, Information Consultant.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Commerce Degree (3 years)",
+      "code": "B1CISQ",
+      "name": "INFORMATION SYSTEMS",
+      "campus": "APB",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "IT Project Manager, Business Analyst, Systems Analyst, Database Administrator, IT Consultant.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Commerce Degree (3 years)",
+      "code": "B1CMMQ",
+      "name": "MARKETING MANAGEMENT",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Advertising Manager, Brand Manager, Customer Relationship Manager, Marketing Manager, Marketing Researcher, Media Planner, Sales Manager, Customer Services Manager, Marketing Consultant.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Commerce Degree (3 years)",
+      "code": "B34TLQ",
+      "name": "TRANSPORT AND LOGISTICS MANAGEMENT",
+      "campus": "APK",
+      "minimum_aps_text": "27",
+      "minimum_aps_value": 27,
+      "career": "Logistics Manager, Consultant, Production Planner, Customer Services Manager.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Commerce Extended Degree (4 years)",
+      "code": "B34AEQ",
+      "name": "ACCOUNTING (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "25 with Maths OR 28 with Maths Lit",
+      "minimum_aps_value": 25,
+      "career": "Financial Manager, Accountant, Internal Auditor, Tax Consultant.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Commerce Extended Degree (4 years)",
+      "code": "B34BEQ",
+      "name": "BUSINESS MANAGEMENT (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "25 with Maths/Tech Maths OR 28 with Maths Lit",
+      "minimum_aps_value": 25,
+      "career": "Training Manager, HRD Manager, Employment Relations Manager, Product Development Manager, Branch Manager, General Manager, Change Facilitator, Management Consultant, Entrepreneur, Business Innovator, various middle / first level management opportunities in industries.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Commerce Extended Degree (4 years)",
+      "code": "B3NE4Q",
+      "name": "ECONOMICS AND ECONOMETRICS (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "25 with Maths OR 28 with Maths Lit",
+      "minimum_aps_value": 25,
+      "career": "Economist, Econometrician, Economic Analyst, Forecaster, Economic Planner.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Commerce Extended Degree (4 years)",
+      "code": "B34FEQ",
+      "name": "FINANCE (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "25 with Maths OR 28 with Maths Lit",
+      "minimum_aps_value": 25,
+      "career": "Financial Manager, Stockbroker, Accountant, Financial Consultant, Investment Advisor.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D3A15Q",
+      "name": "ACCOUNTANCY",
+      "campus": "SWC",
+      "minimum_aps_text": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+      "minimum_aps_value": 22,
+      "career": "Accounting Technician, Cost Accountant, Bookkeeper.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "DI1401",
+      "name": "BUSINESS INFORMATION TECHNOLOGY",
+      "campus": "APB",
+      "minimum_aps_text": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+      "minimum_aps_value": 22,
+      "career": "IT practitioners provide computer based solutions through the application of IT techniques to business problems.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D34F9Q",
+      "name": "FINANCIAL SERVICES OPERATIONS",
+      "campus": "SWC",
+      "minimum_aps_text": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+      "minimum_aps_value": 22,
+      "career": "Middle and Back Office Financial Operations, Compliance Officer, Risk Analyst, Operations Administrator.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D34FBQ",
+      "name": "FOOD AND BEVERAGE OPERATIONS",
+      "campus": "APB",
+      "minimum_aps_text": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+      "minimum_aps_value": 22,
+      "career": "The successful student will possess appropriate operational and supervisory skills within food and beverage units in the private or catering sectors in South Africa and internationally. Persons can work at executive levels in food and beverage within the areas of marketing, drinks training and promotions.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D34LGQ",
+      "name": "LOGISTICS",
+      "campus": "APB",
+      "minimum_aps_text": "24 with Maths/Tech Maths OR 26 with Mathematical Literacy",
+      "minimum_aps_value": 24,
+      "career": "Purchasing Manager, Warehouse Manager.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D34MKQ",
+      "name": "MARKETING",
+      "campus": "APB",
+      "minimum_aps_text": "22 with Maths/Tech Maths OR 24 with Maths Lit",
+      "minimum_aps_value": 22,
+      "career": "Advertising, Brand Manager, Customer Relationship Management, Customer Services Manager, Marketing Manager, Marketing Researcher, Media Planner, Sales Manager, Consulting.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D34P2Q",
+      "name": "PEOPLE MANAGEMENT",
+      "campus": "SWC",
+      "minimum_aps_text": "22 with Maths/Tech Maths OR 24 with Maths Lit",
+      "minimum_aps_value": 22,
+      "career": "People Management Practitioners dealing with employee-related issues in organisations, Human Resource Officer, Training Official, Recruitment and Selection Official, Employee Benefits Officer, Change Facilitator, Human Resource Development Officer, Organisational Development Practitioner, Health and Wellness Officer, Researcher.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D34RMQ",
+      "name": "RETAIL BUSINESS MANAGEMENT",
+      "campus": "APB",
+      "minimum_aps_text": "22 with Maths/Tech Maths OR 24 with Maths Lit",
+      "minimum_aps_value": 22,
+      "career": "Prepares the graduate for work in different aspects of retailing and related sectors: Advertising, Analytics, Category Management, Customer Experience, Customer Service, Developers, Layout Specialists, Merchandisers, Product Retailing, Promotion Leaders, Retail Buyers, Sales and Store Managers, Visual Merchandisers, Software Managers.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D34SBQ",
+      "name": "SMALL BUSINESS MANAGEMENT",
+      "campus": "SWC",
+      "minimum_aps_text": "22 with Maths/Tech Maths OR 24 with Maths Lit",
+      "minimum_aps_value": 22,
+      "career": "Business Owner, Business Manager, Entrepreneur, Social Entrepreneur, Business Advisor, Business Development Officer.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D34TMQ",
+      "name": "TOURISM MANAGEMENT",
+      "campus": "APB",
+      "minimum_aps_text": "22 with Maths/Tech Maths OR 24 with Maths Lit",
+      "minimum_aps_value": 22,
+      "career": "Prepares the graduate for work in a variety of tourism sectors with managerial and operational related work.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D34TRQ",
+      "name": "TRANSPORTATION MANAGEMENT",
+      "campus": "APB",
+      "minimum_aps_text": "24 with Maths/Tech Maths OR 26 with Maths Lit",
+      "minimum_aps_value": 24,
+      "career": "Transportation Manager.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Extended Diploma Programmes (4 years)",
+      "code": "D34LEQ",
+      "name": "LOGISTICS (EXTENDED)",
+      "campus": "APB",
+      "minimum_aps_text": "22 with Maths/Tech Maths OR 24 with Maths Lit",
+      "minimum_aps_value": 22,
+      "career": "Purchasing Manager, Warehouse Manager.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Extended Diploma Programmes (4 years)",
+      "code": "D34PEQ",
+      "name": "PEOPLE MANAGEMENT (EXTENDED)",
+      "campus": "SWC",
+      "minimum_aps_text": "19 with Maths/Tech Maths OR 21 with Maths Lit",
+      "minimum_aps_value": 19,
+      "career": "People Management Practitioners dealing with employee-related issues in organisations, Human Resource Officer, Training Official, Recruitment and Selection Official, Employee Benefits Officer, Change Facilitator, Human Resource Development Officer, Organisational Development Practitioner, Health and Wellness Officer, Researcher.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Extended Diploma Programmes (4 years)",
+      "code": "D34SEQ",
+      "name": "SMALL BUSINESS MANAGEMENT (EXTENDED)",
+      "campus": "SWC",
+      "minimum_aps_text": "21 with Maths Lit / Maths / Tech Maths",
+      "minimum_aps_value": 21,
+      "career": "Business Owner, Business Manager, Entrepreneur, Social Entrepreneur, Business Advisor, Business Development Officer.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Extended Diploma Programmes (4 years)",
+      "code": "D34TEQ",
+      "name": "TRANSPORTATION MANAGEMENT (EXTENDED)",
+      "campus": "APB",
+      "minimum_aps_text": "22 with Maths/Tech Maths OR 24 with Maths Lit",
+      "minimum_aps_value": 22,
+      "career": "Transportation Manager.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Online Programmes",
+      "code": "B34ACC",
+      "name": "BACHELOR OF COMMERCE IN ACCOUNTANCY (ONLINE)",
+      "campus": "Online",
+      "minimum_aps_text": "28 with Mathematics",
+      "minimum_aps_value": 28,
+      "career": "Financial Manager, Accountant, Internal Auditor, Tax Consultant.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Online Programmes",
+      "code": "B34HRC",
+      "name": "BACHELOR OF HUMAN RESOURCE MANAGEMENT (ONLINE)",
+      "campus": "Online",
+      "minimum_aps_text": "28 with Maths/Tech Maths OR 28 with Maths Lit",
+      "minimum_aps_value": 28,
+      "career": "Human Resource Practitioners, Personnel Manager, Personnel Officer, Training Manager, Recruitment and Selection Officer.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    }
+  ]
+}

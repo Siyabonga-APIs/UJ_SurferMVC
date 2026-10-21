@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Student Portal</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <style>
+            :root {
+                --uj-orange: #ea6100;
+                --uj-dark: #1f2421;
+            }
+            .navbar-brand-custom {
+                font-weight: 700;
+                color: var(--uj-orange) !important;
+                letter-spacing: -0.5px;
+            }
+            .btn-uj {
+                background-color: var(--uj-orange);
+                color: #fff;
+                border: none;
+            }
+            .btn-uj:hover {
+                background-color: #cf5500;
+                color: #fff;
+            }
+            .badge-uj {
+                background-color: var(--uj-orange);
+                color: #fff;
+            }
+    </style>
+</head>
+<body class="d-flex flex-column min-vh-100 bg-white text-dark">
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom shadow-sm">
+            <div class="container">
+                <a class="navbar-brand navbar-brand-custom" asp-controller="Home" asp-action="Index">UJ Surfer</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav me-auto">
+                        
+                        @if (User.Identity != null && User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark fw-semibold" asp-controller="Matric" asp-action="MyRecords">View My Records</a>
+                            </li>
+                        }
+                        <li class="nav-item">
+                            <a class="nav-link text-secondary" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container my-4 flex-grow-1">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top py-3 text-muted text-center small bg-light mt-auto">
+        <div class="container">
+            &copy; 2026 - Independent Matric Qualification Matching Tool - <a asp-controller="Home" asp-action="Privacy" class="text-muted">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

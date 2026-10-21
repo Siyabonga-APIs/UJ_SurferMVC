@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Welcome";
+}
+
+<div class="row align-items-start g-4 py-4">
+    <!-- Left Column: Official Disclaimer Card -->
+    <div class="col-md-4">
+        <div class="card border-0 bg-light p-3 border-start border-3 border-warning shadow-sm">
+            <h6 class="fw-bold text-dark text-uppercase small mb-2">Important Notice & Disclaimer</h6>
+            <p class="small text-muted mb-2">
+                This platform is an independent educational tool designed solely to assist prospective matriculants in understanding their Admission Point Scores (APS) and potential study pathways.
+            </p>
+            <p class="small text-muted mb-2">
+                <strong>We are not affiliated with, endorsed by, or representing the University of Johannesburg (UJ).</strong> All programme requirements, APS thresholds, and qualifications are referenced directly from the publicly accessible <em>2027 UJ Undergraduate Prospectus</em>.
+            </p>
+            <p class="small text-muted mb-0">
+                Fulfilling minimum criteria does not guarantee admission. If the university makes adjustments to its requirements, updates to this system will follow as information becomes available.
+            </p>
+        </div>
+    </div>
+
+    <!-- Right Column: Welcome and CTA -->
+    <div class="col-md-8 ps-md-4">
+        <span class="badge badge-uj px-3 py-2 mb-3">Matric Qualification Matcher</span>
+        <h1 class="display-6 fw-bold text-dark mb-3">Welcome to UJ Surfer</h1>
+        <p class="lead text-secondary mb-4">
+            A focused system to calculate your Admission Point Score and check real-time admission requirements across all degrees and diplomas.
+        </p>
+
+        <div class="row g-3 mb-4">
+            <div class="col-sm-6">
+                <div class="p-3 border rounded">
+                    <h6 class="fw-bold mb-1">Single Entry Persistence</h6>
+                    <p class="small text-muted mb-0">Enter your marks once. Your profile and qualified qualifications stay saved to your account.</p>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="p-3 border rounded">
+                    <h6 class="fw-bold mb-1">Accurate Criteria Checks</h6>
+                    <p class="small text-muted mb-0">Strict evaluation against subject requirements, math streams, and APS thresholds.</p>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            @if (User.Identity != null && User.Identity.IsAuthenticated)
+            {
+                <a asp-controller="Matric" asp-action="MyRecords" class="btn btn-uj btn-lg px-4 fw-semibold me-2">
+                    View My Qualified Programmes
+                </a>
+                <a asp-controller="Matric" asp-action="Calculate" class="btn btn-outline-secondary btn-lg px-4">
+                    Update Marks
+                </a>
+            }
+            else
+            {
+                <a href="/Identity/Account/Register" class="btn btn-uj btn-lg px-4 fw-semibold me-2">
+                    Create Account to Get Started
+                </a>
+                <a href="/Identity/Account/Login" class="btn btn-outline-dark btn-lg px-4">
+                    Log In
+                </a>
+            }
+        </div>
+    </div>
+</div>

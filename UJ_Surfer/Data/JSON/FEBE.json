@@ -1,0 +1,772 @@
+{
+  "name": "Faculty of Engineering and the Built Environment",
+  "acronym": "FEBE",
+  "general_notes": "Engineering broadly focuses on the creative application of scientific and technical knowledge to design, analyse, develop structures, machines, manufacturing processes, construction of works/systems for practical purposes.",
+  "contacts": [
+    {
+      "campus": "APK",
+      "telephone": "011 559 3565",
+      "email": "web-engineering@uj.ac.za"
+    },
+    {
+      "campus": "DFC",
+      "telephone": "011 559 6811",
+      "email": "web-engineering@uj.ac.za"
+    }
+  ],
+  "programmes": [
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Engineering (BEng) Degree Programmes (4 years)",
+      "code": "B6CS0Q",
+      "name": "CIVIL ENGINEERING",
+      "campus": "APK",
+      "minimum_aps_text": "32",
+      "minimum_aps_value": 32,
+      "career": "Plan, design and construction of infrastructure.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Engineering (BEng) Degree Programmes (4 years)",
+      "code": "B6ES0Q",
+      "name": "ELECTRICAL AND ELECTRONIC ENGINEERING",
+      "campus": "APK",
+      "minimum_aps_text": "32",
+      "minimum_aps_value": 32,
+      "career": "Electronic Design, Software System Design.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Engineering (BEng) Degree Programmes (4 years)",
+      "code": "B6MS0Q",
+      "name": "MECHANICAL ENGINEERING",
+      "campus": "APK",
+      "minimum_aps_text": "32",
+      "minimum_aps_value": 32,
+      "career": "Designing, manufacturing and maintenance of machines.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Engineering Technology (BEngTech) Degree Programmes (3 years)",
+      "code": "B6CE1Q",
+      "name": "CHEMICAL ENGINEERING",
+      "campus": "DFC",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Design and manage chemical processes for the industrial manufacturing sector.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Engineering Technology (BEngTech) Degree Programmes (3 years)",
+      "code": "B6CV3Q",
+      "name": "CIVIL ENGINEERING",
+      "campus": "DFC",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Plan, design and construction of infrastructure.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science / Technical Science",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Engineering Technology (BEngTech) Degree Programmes (3 years)",
+      "code": "B6EL1Q",
+      "name": "ELECTRICAL ENGINEERING",
+      "campus": "DFC",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Electronic Design, Software System Design.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Engineering Technology (BEngTech) Degree Programmes (3 years)",
+      "code": "B6EXTQ",
+      "name": "EXTRACTION METALLURGY",
+      "campus": "DFC",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Manage metallurgical plants that are designed to recover or refine metals and other valuable constituents in mine ores.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Engineering Technology (BEngTech) Degree Programmes (3 years)",
+      "code": "B6IN2Q",
+      "name": "INDUSTRIAL ENGINEERING",
+      "campus": "DFC",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Design and implement systems to maximise production in organisations.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science / Technical Science",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Engineering Technology (BEngTech) Degree Programmes (3 years)",
+      "code": "B6MC2Q",
+      "name": "MECHANICAL ENGINEERING",
+      "campus": "DFC",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Design, manufacture and maintain industrial machines and engines.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science / Technical Science",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Engineering Technology (BEngTech) Degree Programmes (3 years)",
+      "code": "B6MINQ",
+      "name": "MINING ENGINEERING",
+      "campus": "DFC",
+      "minimum_aps_text": "23",
+      "minimum_aps_value": 23,
+      "career": "Select and manage the correct method of mining in specific geological environments.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science / Technical Science",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Engineering Technology (BEngTech) Degree Programmes (3 years)",
+      "code": "B6PY2Q",
+      "name": "PHYSICAL METALLURGY",
+      "campus": "DFC",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Assesses the suitability of metals for their use in metallic goods.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Mine Surveying Degree (3 years)",
+      "code": "B6SU0Q",
+      "name": "MINE SURVEYING",
+      "campus": "DFC",
+      "minimum_aps_text": "23",
+      "minimum_aps_value": 23,
+      "career": "Advise surveying mining engineers about geological areas that can be profitably mined.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science / Technical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Geography",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Construction (BSc) Degree (3 years)",
+      "code": "B6CN0Q",
+      "name": "CONSTRUCTION",
+      "campus": "DFC",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Students are employed in the construction industry as Quantity Surveyors and Construction Managers.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science / Technical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Geography",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Urban and Regional Planning Degree (3 years)",
+      "code": "B6UP0Q",
+      "name": "URBAN AND REGIONAL PLANNING",
+      "campus": "DFC",
+      "minimum_aps_text": "27",
+      "minimum_aps_value": 27,
+      "career": "The allocation and spatial organisation of land uses to ensure coordinated and harmonious development and to create successful and sustainable human settlements.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Geography",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D6MASQ",
+      "name": "MANAGEMENT SERVICES",
+      "campus": "DFC",
+      "minimum_aps_text": "19 with Mathematics OR 21 with Mathematical Literacy",
+      "minimum_aps_value": 19,
+      "career": "Advise on improving the efficiency and the productivity of an organisation.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D6OPMQ",
+      "name": "OPERATIONS MANAGEMENT",
+      "campus": "DFC",
+      "minimum_aps_text": "20 with Mathematics OR 22 with Mathematical Literacy",
+      "minimum_aps_value": 20,
+      "career": "This career equips the graduate with the ability to plan, organise and control operational activities in an organisation.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Extended Diploma Programmes",
+      "code": "D6MAEQ",
+      "name": "MANAGEMENT SERVICES (EXTENDED)",
+      "campus": "DFC",
+      "minimum_aps_text": "19 with Mathematics OR 21 with Mathematical Literacy",
+      "minimum_aps_value": 19,
+      "career": "Advise on improving the efficiency and the productivity of an organisation.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Extended Diploma Programmes",
+      "code": "D6OPEQ",
+      "name": "OPERATIONS MANAGEMENT (EXTENDED)",
+      "campus": "DFC",
+      "minimum_aps_text": "20 with Mathematics OR 22 with Mathematical Literacy",
+      "minimum_aps_value": 20,
+      "career": "This career equips the graduate with the ability to plan, organise and control operational activities in an organisation.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Extended Bachelor of Science in Construction (BSc) Degree Programme",
+      "code": "B6SC0Q",
+      "name": "CONSTRUCTION (EXTENDED)",
+      "campus": "DFC",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Students are employed in the construction industry as Quantity Surveyors and Construction Managers.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Extended Bachelor of Engineering Technology (BEngTech) Degree Programmes",
+      "code": "B6CX3Q",
+      "name": "CIVIL ENGINEERING (EXTENDED)",
+      "campus": "DFC",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Professional Civil Engineering, Plan, Design of Infrastructure and Construction.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Extended Bachelor of Engineering Technology (BEngTech) Degree Programmes",
+      "code": "B6L1XQ",
+      "name": "ELECTRICAL ENGINEERING (EXTENDED)",
+      "campus": "DFC",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Electronic Design, Software System Design.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Extended Bachelor of Engineering Technology (BEngTech) Degree Programmes",
+      "code": "B6EX0Q",
+      "name": "EXTRACTION METALLURGY (EXTENDED)",
+      "campus": "DFC",
+      "minimum_aps_text": "22",
+      "minimum_aps_value": 22,
+      "career": "Manage and refine metallurgical plants that are designed to recover metals or other valuable constituents in mine ores.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Extended Bachelor of Engineering Technology (BEngTech) Degree Programmes",
+      "code": "B6IX2Q",
+      "name": "INDUSTRIAL ENGINEERING (EXTENDED)",
+      "campus": "DFC",
+      "minimum_aps_text": "24",
+      "minimum_aps_value": 24,
+      "career": "Industrial Engineers design and implement systems to maximise organisations in production.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Extended Bachelor of Engineering Technology (BEngTech) Degree Programmes",
+      "code": "B6MX2Q",
+      "name": "MECHANICAL ENGINEERING (EXTENDED)",
+      "campus": "DFC",
+      "minimum_aps_text": "24",
+      "minimum_aps_value": 24,
+      "career": "Mechanical Engineers design, manufacture and maintain industrial machines and engines.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Extended Bachelor of Engineering Technology (BEngTech) Degree Programmes",
+      "code": "B6PX2Q",
+      "name": "PHYSICAL METALLURGY (EXTENDED)",
+      "campus": "DFC",
+      "minimum_aps_text": "22",
+      "minimum_aps_value": 22,
+      "career": "Engineering Metallurgists assess the suitability of metals for their use in metallic goods.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    }
+  ]
+}

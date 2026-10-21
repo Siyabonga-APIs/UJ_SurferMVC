@@ -1,0 +1,304 @@
+{
+  "name": "Faculty of Art, Design and Architecture",
+  "acronym": "FADA",
+  "general_notes": "Disclaimer: Due to limited space, fulfilling all the minimum admission requirements does not guarantee acceptance into a programme.",
+  "contacts": [
+    {
+      "campus": "APB",
+      "telephone": "011 559 1098",
+      "email": "web-fada@uj.ac.za"
+    }
+  ],
+  "programmes": [
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor Degree (3 years)",
+      "code": "B8BA3Q",
+      "name": "B ARCHITECTURE",
+      "campus": "APB",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Architectural professionals are involved in shaping our built environment, from the simple construction of low-cost housing projects to the most sophisticated technology employed in the erection of skyscrapers. Architectural professionals are thus employed in the design, technological resolution and management of the design and construction process of buildings.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BA Degree (3 years)",
+      "code": "B8CD2Q",
+      "name": "BA (COMMUNICATION DESIGN)",
+      "campus": "APB",
+      "minimum_aps_text": "25 with Mathematics OR 26 with Mathematical Literacy",
+      "minimum_aps_value": 25,
+      "career": "Communication Designers are creative thinkers and problem solvers who use a range of design methods, processes and techniques to create professional communication designs, such as posters, books, magazines, corporate identity programmes, packaging and web sites, both individually and as members of teams.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BA Degree (3 years)",
+      "code": "B8DM3Q",
+      "name": "BA (DIGITAL MEDIA DESIGN)",
+      "campus": "APB",
+      "minimum_aps_text": "25 with Mathematics OR 26 with Mathematical Literacy",
+      "minimum_aps_value": 25,
+      "career": "This degree prepares students for careers in the design, film, broadcast and advertising industries as: interaction designers, user experience designers, user interface designers, service designers, music video designers, multimedia animators, motion graphics designers, information designers, video editors, video compositors, digital photographers, digital media consultants and or creative directors.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BA Degree (3 years)",
+      "code": "B8ID1Q",
+      "name": "BA (INDUSTRIAL DESIGN)",
+      "campus": "APB",
+      "minimum_aps_text": "25 with Mathematics OR 26 with Mathematical Literacy",
+      "minimum_aps_value": 25,
+      "career": "Industrial Designers improve the aesthetics, ergonomics and functionality of a broad range of products from bespoke/one-off furniture items to mass produced products such as kitchen appliances and cellphones.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BA Degree (3 years)",
+      "code": "B8BA6Q",
+      "name": "BA (INTERIOR DESIGN)",
+      "campus": "APB",
+      "minimum_aps_text": "25 with Mathematics OR 26 with Mathematical Literacy",
+      "minimum_aps_value": 25,
+      "career": "Interior Designers engage with a range of interior spaces to create innovative spatial solutions with a thorough knowledge of building technology, materials and human environment needs.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BA Degree (3 years)",
+      "code": "B8FD1Q",
+      "name": "BA (FASHION DESIGN)",
+      "campus": "APB",
+      "minimum_aps_text": "25 with Mathematics OR 26 with Mathematical Literacy",
+      "minimum_aps_value": 25,
+      "career": "A degree in fashion design prepares graduates for various career possibilities in the fast-paced fashion industry. Amongst other, these include being a fashion designer, a fashion entrepreneur, a pattern engineer, a fashion buyer a fashion stylist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BA Degree (3 years)",
+      "code": "B8BA7Q",
+      "name": "BA (VISUAL ART)",
+      "campus": "APB",
+      "minimum_aps_text": "25 with Maths / Tech Maths OR 26 with Mathematical Literacy",
+      "minimum_aps_value": 25,
+      "career": "Visual Art graduates find work in diverse fields of the visual arts industries. In addition to being a professional artist, graduates could work, in art education and training, art gallery and museum curating and management, art consulting, arts writing, art criticism, research and journalism, printmaking and print studio management, paper making and paper production design, community and arts project management, visual events management.",
+      "notes": "The requirement for maths or maths literacy as a matric subject for international admission into the BA in Visual Art UG degree may be exempt - provided the university entrance requirements and APS score remain intact and such admission is compliant with all UG Degree requirements.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D8AT1Q",
+      "name": "DIPLOMA ARCHITECTURE",
+      "campus": "APB",
+      "minimum_aps_text": "25 with Maths OR 26 with Tech Maths",
+      "minimum_aps_value": 25,
+      "career": "Architectural Practitioners are involved in technological design and produce simple buildings and technological details.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D8FP1Q",
+      "name": "DIPLOMA FASHION PRODUCTION",
+      "campus": "APB",
+      "minimum_aps_text": "22 with Maths OR 23 with Maths Lit",
+      "minimum_aps_value": 22,
+      "career": "Fashion Production Graduates can be involved in the business, retail, manufacturing and quality assurance aspects of the clothing industry.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma Programmes (3 years)",
+      "code": "D8JD1Q",
+      "name": "DIPLOMA JEWELLERY DESIGN AND MANUFACTURE",
+      "campus": "APB",
+      "minimum_aps_text": "20 with Maths OR 21 with Maths Lit OR 22 with Tech Maths",
+      "minimum_aps_value": 20,
+      "career": "Jewellery Designers and Manufacturers are involved in high end contemporary and commercial commercial designs and manufacture process and concepts.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    }
+  ]
+}

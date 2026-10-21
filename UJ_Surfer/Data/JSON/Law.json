@@ -1,0 +1,101 @@
+{
+  "name": "Faculty of Law",
+  "acronym": "LAW",
+  "general_notes": "The Faculty annually awards the degrees BA (Law), BCom (Law), LLB, LLM and LLD. The following matric equivalents are not accepted in the Faculty of Law: NCV, NASCA, ASC.",
+  "contacts": [
+    {
+      "campus": "APK",
+      "telephone": "011 559 2141 / 011 559 2775",
+      "email": "thokozilem@uj.ac.za"
+    }
+  ],
+  "programmes": [
+    {
+      "qualification_type": "Degree",
+      "category": "B Degree (3 years)",
+      "code": "B4A01Q",
+      "name": "BA (LAW)",
+      "campus": "APK",
+      "minimum_aps_text": "31 with Mathematics OR 32 with Mathematical Literacy",
+      "minimum_aps_value": 31,
+      "career": "Legal Advisor, Career in Public Administration.",
+      "notes": "After completing a 3 year BA (Law) degree students can register for an LLB degree and complete it within a further 2 years.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Additional Language",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "B Degree (3 years)",
+      "code": "B4C01Q",
+      "name": "BCOM (LAW)",
+      "campus": "APK",
+      "minimum_aps_text": "31 with Mathematics ONLY",
+      "minimum_aps_value": 31,
+      "career": "Legal Advisor, Career in Commerce.",
+      "notes": "After completing a 3 year BCom (Law) degree students can register for an LLB degree and complete it within a further 2 years.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Additional Language",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "B Degree (4 years)",
+      "code": "B4L03Q",
+      "name": "LLB",
+      "campus": "APK",
+      "minimum_aps_text": "31 with Mathematics OR 32 with Mathematical Literacy",
+      "minimum_aps_value": 31,
+      "career": "Advocate, Attorney, State Advocate, Legal Advisor, Magistrate, Public Prosecutor.",
+      "notes": "Additional language requirement is waived in the case of international students with a non-South African secondary school-leaver's certificate which does not include a second language.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Additional Language",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    }
+  ]
+}

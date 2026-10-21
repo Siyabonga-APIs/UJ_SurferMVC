@@ -1,0 +1,146 @@
+﻿@model UJ_Surfer.Models.MatricMarksViewModel
+@{
+    ViewData["Title"] = "Enter Your Matric Marks";
+
+    var commonElectives = new List<SelectListItem>
+    {
+        new SelectListItem("Select Subject...", ""),
+        new SelectListItem("Physical Sciences", "Physical Sciences"),
+        new SelectListItem("Life Sciences (Biology)", "Life Sciences"),
+        new SelectListItem("Accounting", "Accounting"),
+        new SelectListItem("Business Studies", "Business Studies"),
+        new SelectListItem("Economics", "Economics"),
+        new SelectListItem("Geography", "Geography"),
+        new SelectListItem("History", "History"),
+        new SelectListItem("Information Technology (IT)", "Information Technology"),
+        new SelectListItem("Computer Applications Technology (CAT)", "Computer Applications Technology"),
+        new SelectListItem("Agricultural Sciences", "Agricultural Sciences"),
+        new SelectListItem("Engineering Graphics and Design (EGD)", "Engineering Graphics and Design"),
+        new SelectListItem("Visual Arts", "Visual Arts"),
+        new SelectListItem("Consumer Studies", "Consumer Studies"),
+        new SelectListItem("Tourism", "Tourism")
+    };
+}
+
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card shadow-sm border-0">
+                <div class="card-header bg-dark text-white py-3">
+                    <h5 class="mb-0 fw-bold">Matric Subject & Marks Profile</h5>
+                    <p class="mb-0 small text-white-50">Enter your 7 National Senior Certificate (NSC) subjects. APS is calculated from your best 6 subjects, excluding Life Orientation[cite: 16].</p>
+                </div>
+                <div class="card-body p-4">
+                    <form asp-action="Calculate" method="post">
+                        @Html.AntiForgeryToken()
+
+                        <!-- SECTION 1: LANGUAGES -->
+                        <h6 class="fw-bold text-uppercase small text-muted border-bottom pb-2 mb-3">1. Official Languages[cite: 16]</h6>
+                        <div class="row g-3 mb-4">
+                            <div class="col-md-6">
+                                <label asp-for="EnglishMark" class="form-label fw-semibold">English (HL / FAL)</label>
+                                <div class="input-group">
+                                    <input asp-for="EnglishMark" class="form-control" type="number" min="0" max="100" placeholder="e.g. 68" />
+                                    <span class="input-group-text">%</span>
+                                </div>
+                                <span asp-validation-for="EnglishMark" class="text-danger small"></span>
+                            </div>
+
+                            <div class="col-md-6">
+                                <label asp-for="SecondLanguageMark" class="form-label fw-semibold">Second Language (e.g. isiZulu, Afrikaans)</label>
+                                <div class="input-group">
+                                    <input asp-for="SecondLanguageMark" class="form-control" type="number" min="0" max="100" placeholder="e.g. 72" />
+                                    <span class="input-group-text">%</span>
+                                </div>
+                                <span asp-validation-for="SecondLanguageMark" class="text-danger small"></span>
+                            </div>
+                        </div>
+
+                        <!-- SECTION 2: MATHEMATICS -->
+                        <h6 class="fw-bold text-uppercase small text-muted border-bottom pb-2 mb-3">2. Mathematics Subject[cite: 16]</h6>
+                        <div class="row g-3 mb-4">
+                            <div class="col-md-6">
+                                <label asp-for="SelectedMathType" class="form-label fw-semibold"></label>
+                                <select asp-for="SelectedMathType" class="form-select" asp-items="Html.GetEnumSelectList<UJ_Surfer.Models.MathType>()"></select>
+                                <span asp-validation-for="SelectedMathType" class="text-danger small"></span>
+                            </div>
+                            <div class="col-md-6">
+                                <label asp-for="MathMark" class="form-label fw-semibold">Mathematics Mark</label>
+                                <div class="input-group">
+                                    <input asp-for="MathMark" class="form-control" type="number" min="0" max="100" placeholder="e.g. 65" />
+                                    <span class="input-group-text">%</span>
+                                </div>
+                                <span asp-validation-for="MathMark" class="text-danger small"></span>
+                            </div>
+                        </div>
+
+                        <!-- SECTION 3: ELECTIVE SUBJECTS -->
+                        <h6 class="fw-bold text-uppercase small text-muted border-bottom pb-2 mb-3">3. Elective Subjects[cite: 16]</h6>
+
+                        <!-- Elective 1 -->
+                        <div class="row g-2 mb-3 align-items-center">
+                            <div class="col-md-7">
+                                <select asp-for="Elective1Name" class="form-select" asp-items="commonElectives"></select>
+                            </div>
+                            <div class="col-md-5">
+                                <div class="input-group">
+                                    <input asp-for="Elective1Mark" class="form-control" type="number" min="0" max="100" placeholder="Mark" />
+                                    <span class="input-group-text">%</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Elective 2 -->
+                        <div class="row g-2 mb-3 align-items-center">
+                            <div class="col-md-7">
+                                <select asp-for="Elective2Name" class="form-select" asp-items="commonElectives"></select>
+                            </div>
+                            <div class="col-md-5">
+                                <div class="input-group">
+                                    <input asp-for="Elective2Mark" class="form-control" type="number" min="0" max="100" placeholder="Mark" />
+                                    <span class="input-group-text">%</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Elective 3 -->
+                        <div class="row g-2 mb-4 align-items-center">
+                            <div class="col-md-7">
+                                <select asp-for="Elective3Name" class="form-select" asp-items="commonElectives"></select>
+                            </div>
+                            <div class="col-md-5">
+                                <div class="input-group">
+                                    <input asp-for="Elective3Mark" class="form-control" type="number" min="0" max="100" placeholder="Mark" />
+                                    <span class="input-group-text">%</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- SECTION 4: LIFE ORIENTATION -->
+                        <h6 class="fw-bold text-uppercase small text-muted border-bottom pb-2 mb-3">4. Life Orientation[cite: 16]</h6>
+                        <div class="row g-3 mb-4">
+                            <div class="col-md-12">
+                                <label asp-for="LifeOrientationMark" class="form-label fw-semibold">Life Orientation</label>
+                                <div class="input-group">
+                                    <input asp-for="LifeOrientationMark" class="form-control" type="number" min="0" max="100" placeholder="e.g. 80" />
+                                    <span class="input-group-text">%</span>
+                                </div>
+                                <span class="form-text text-muted">Per UJ admission regulations, Life Orientation is excluded from total APS calculation[cite: 16].</span>
+                            </div>
+                        </div>
+
+                        <div class="d-grid mt-4">
+                            <button type="submit" class="btn btn-warning btn-lg fw-bold text-dark py-3">
+                                Save Marks & Check Qualifications
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

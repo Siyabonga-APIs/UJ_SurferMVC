@@ -1,0 +1,393 @@
+{
+  "name": "Faculty of Education",
+  "acronym": "EDU",
+  "general_notes": "Through its teacher education programmes, the Faculty strives to prepare teachers who are caring, accountable and critically reflective about the who, what, how and why of teaching in a diversity of contexts.",
+  "contacts": [
+    {
+      "campus": "APK",
+      "telephone": "011 559 3251",
+      "email": "eduqueries@uj.ac.za"
+    },
+    {
+      "campus": "SWC",
+      "telephone": "011 559 5562",
+      "email": "eduqueries@uj.ac.za"
+    }
+  ],
+  "programmes": [
+    {
+      "qualification_type": "Degree",
+      "category": "BEd Degree in Foundation Phase Teaching (4 years)",
+      "code": "B5BFPQ",
+      "name": "FOUNDATION PHASE TEACHING GRADE R-3",
+      "campus": "SWC",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Educator focusing on primary school teaching.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "Home language 5 (60%+) OR Additional Language 6 (70%+)"
+        },
+        {
+          "subject": "Mathematics / Mathematical Literacy / Technical Mathematics",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BEd Degree in Intermediate Phase Teaching (4 years)",
+      "code": "B5BITQ",
+      "name": "INTERMEDIATE PHASE TEACHING GRADE 4-7",
+      "campus": "SWC",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Educator focusing on primary school teaching.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "Home language 5 (60%+) OR Additional Language 6 (70%+)"
+        },
+        {
+          "subject": "Mathematics / Mathematical Literacy / Technical Mathematics",
+          "requirement": "Maths 3 (40%+) OR Maths Lit 5 (60%+) OR Tech Maths 3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LIFE ORIENTATION",
+      "code": "B5LOPQ",
+      "name": "PSYCHOLOGY",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Educator focusing on high school teaching.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "Home language 5 (60%+) OR Additional Language 6 (70%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - COMMERCE EDUCATION",
+      "code": "B5BSAQ",
+      "name": "ACCOUNTING",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Educator focusing on high school teaching.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "Home language 5 (60%+) OR Additional Language 6 (70%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - COMMERCE EDUCATION",
+      "code": "B5BSBQ",
+      "name": "BUSINESS MANAGEMENT",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Educator focusing on high school teaching.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "Home language 5 (60%+) OR Additional Language 6 (70%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - COMMERCE EDUCATION",
+      "code": "B5BSEQ",
+      "name": "ECONOMICS",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Educator focusing on high school teaching.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "Home language 5 (60%+) OR Additional Language 6 (70%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LANGUAGE EDUCATION",
+      "code": "B5LAEQ",
+      "name": "ENGLISH",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Educator focusing on high school teaching.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "Home language 5 (60%+) OR Additional Language 6 (70%+)"
+        },
+        {
+          "subject": "Afrikaans",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "IsiZulu",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Sepedi",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LANGUAGE EDUCATION",
+      "code": "B5LAFQ",
+      "name": "AFRIKAANS",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Educator focusing on high school teaching.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "Home language 5 (60%+) OR Additional Language 6 (70%+)"
+        },
+        {
+          "subject": "Afrikaans",
+          "requirement": "Home language 4 (50%+) OR Additional Language 5 (60%+)"
+        },
+        {
+          "subject": "IsiZulu",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Sepedi",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LANGUAGE EDUCATION",
+      "code": "B5LAZQ",
+      "name": "ISIZULU",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Educator focusing on high school teaching.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "Home language 5 (60%+) OR Additional Language 6 (70%+)"
+        },
+        {
+          "subject": "IsiZulu",
+          "requirement": "Home language 4 (50%+) OR Additional Language 5 (60%+)"
+        },
+        {
+          "subject": "Afrikaans",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Sepedi",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - LANGUAGE EDUCATION",
+      "code": "B5LASQ",
+      "name": "SEPEDI",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Educator focusing on high school teaching.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "Home language 5 (60%+) OR Additional Language 6 (70%+)"
+        },
+        {
+          "subject": "Sepedi",
+          "requirement": "Home language 4 (50%+) OR Additional Language 5 (60%+)"
+        },
+        {
+          "subject": "Afrikaans",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "IsiZulu",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - GEOGRAPHY, LIFE SCIENCES, MATHEMATICS AND PHYSICAL SCIENCES",
+      "code": "B5SGEQ",
+      "name": "GEOGRAPHY",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Educator focusing on high school teaching.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "Home language 5 (60%+) OR Additional Language 6 (70%+)"
+        },
+        {
+          "subject": "Geography",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics / Mathematical Literacy",
+          "requirement": "Maths 3 (40%+) OR Tech Maths 3 (40%+) OR Maths Lit 5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - GEOGRAPHY, LIFE SCIENCES, MATHEMATICS AND PHYSICAL SCIENCES",
+      "code": "B5SLSQ",
+      "name": "LIFE SCIENCES",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Educator focusing on high school teaching.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "Home language 5 (60%+) OR Additional Language 6 (70%+)"
+        },
+        {
+          "subject": "Life Sciences",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics / Mathematical Literacy",
+          "requirement": "Maths 4 (50%+) OR Tech Maths 4 (50%+) OR Maths Lit 6 (70%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - GEOGRAPHY, LIFE SCIENCES, MATHEMATICS AND PHYSICAL SCIENCES",
+      "code": "B5SMMQ",
+      "name": "MATHEMATICS",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Educator focusing on high school teaching.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "Home language 5 (60%+) OR Additional Language 6 (70%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) - GEOGRAPHY, LIFE SCIENCES, MATHEMATICS AND PHYSICAL SCIENCES",
+      "code": "B5SPSQ",
+      "name": "PHYSICAL SCIENCE",
+      "campus": "APK",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Educator focusing on high school teaching.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "Home language 5 (60%+) OR Additional Language 6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not applicable"
+        }
+      ]
+    }
+  ]
+}

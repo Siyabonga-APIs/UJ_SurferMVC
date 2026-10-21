@@ -1,0 +1,98 @@
+﻿@model UJ_Surfer.Models.EligibilityResultsViewModel
+@{
+    ViewData["Title"] = "Eligible Programmes";
+}
+
+<div class="container py-4">
+    <!-- Header Summary Card -->
+    <div class="card bg-light border-0 shadow-sm mb-4">
+        <div class="card-body p-4">
+            <div class="row align-items-center">
+                <div class="col-md-8">
+                    <h2 class="fw-bold mb-1">Your APS Score: <span class="badge bg-success">@Model.CalculatedAps</span></h2>
+                    <p class="text-muted mb-0">
+                        English Level: <strong>@Model.EnglishLevel</strong> |
+                        @Model.MathType Level: <strong>@Model.MathLevel</strong>
+                    </p>
+                    <p class="text-primary fw-semibold mt-1 mb-0">
+                        You qualify for <strong>@Model.TotalEligibleCount</strong> programmes across the university.
+                    </p>
+                </div>
+                <div class="col-md-4 text-md-end mt-3 mt-md-0">
+                    <a asp-action="Calculate" class="btn btn-outline-secondary">Re-calculate Marks</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Filter input -->
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <input type="text" id="programmeSearch" class="form-control" placeholder="Search programmes, code, or career..." onkeyup="filterResults()" />
+        </div>
+    </div>
+
+    <!-- Programmes Grid -->
+    <div class="row g-3" id="programmesContainer">
+        @if (!Model.QualifiedProgrammes.Any())
+        {
+            <div class="col-12 text-center py-5">
+                <h5 class="text-muted">No programmes matched your current score combination.</h5>
+                <p>Try adjusting your marks or speaking to the university admissions office.</p>
+            </div>
+        }
+        else
+        {
+            @foreach (var prog in Model.QualifiedProgrammes)
+            {
+<div class="col-md-6 programme-card" data-search="@prog.Name.ToLower() @prog.Code.ToLower() @prog.FacultyAcronym.ToLower() @prog.Career.ToLower()">                    <div class="card h-100 shadow-sm border-0">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-start mb-2">
+                                <span class="badge bg-secondary">@prog.FacultyAcronym</span>
+                                <span class="badge bg-info text-dark">APS: @prog.MinimumApsValue</span>
+                            </div>
+                            <h5 class="card-title fw-bold text-primary mb-1">@prog.Name</h5>
+                            <h6 class="card-subtitle text-muted mb-2 small">Code: @prog.Code | Campus: @prog.Campus</h6>
+                            <p class="card-text small text-secondary">
+                                @(prog.Career.Length > 160 ? prog.Career.Substring(0, 160) + "..." : prog.Career)
+                            </p>
+                        </div>
+                        <div class="card-footer bg-white border-0 pt-0 pb-3">
+                            <div class="accordion accordion-flush" id="acc-@prog.ProgrammeId">
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button collapsed py-1 px-0 small text-muted" type="button" data-bs-toggle="collapse" data-bs-target="#col-@prog.ProgrammeId">
+                                            View Minimum Requirements
+                                        </button>
+                                    </h2>
+                                    <div id="col-@prog.ProgrammeId" class="accordion-collapse collapse">
+                                        <div class="accordion-body px-0 py-2 small">
+                                            <ul class="list-unstyled mb-0">
+                                                @foreach (var rule in prog.SubjectRulesSummary)
+                                                {
+                                                    <li>• @rule</li>
+                                                }
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>
+
+<script>
+    function filterResults() {
+    var input = document.getElementById('programmeSearch').value.toLowerCase().trim();
+    var cards = document.getElementsByClassName('programme-card');
+
+    for (var i = 0; i < cards.length; i++) {
+        var searchData = cards[i].getAttribute('data-search') || '';
+        cards[i].style.display = searchData.includes(input) ? '' : 'none';
+    }
+}
+</script>

@@ -1,0 +1,526 @@
+{
+  "name": "Faculty of Health Sciences",
+  "acronym": "HEALTH",
+  "general_notes": "An on-site Health Training Centre ensures that students receive a wide range of relevant experience under the supervision of qualified practitioners, enhanced by placements in relevant service-rendering facilities.",
+  "contacts": [
+    {
+      "campus": "DFC",
+      "telephone": "011 559 6925",
+      "email": "web-healthscience@uj.ac.za"
+    }
+  ],
+  "programmes": [
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Biokinetics (4 years)",
+      "code": "B9S15Q",
+      "name": "BIOKINETICS",
+      "campus": "DFC",
+      "minimum_aps_text": "32 with Mathematics OR 33 with Mathematical Literacy",
+      "minimum_aps_value": 32,
+      "career": "Biokineticists treat both orthopaedic injuries and chronic diseases, like hypertension, using exercise as their main treatment modality. They also focus on health promotion, wellness and disease prevention.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "6 (70%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor Degree (4 years)",
+      "code": "B9M01Q",
+      "name": "DIAGNOSTIC RADIOGRAPHY",
+      "campus": "DFC",
+      "minimum_aps_text": "31 with Mathematics",
+      "minimum_aps_value": 31,
+      "career": "Radiographers use x-ray equipment and Magnetic Resonance Imaging equipment to produce images that assist in the diagnosis of injuries and diseases.",
+      "notes": "Technical Mathematics and Technical Sciences are not accepted.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor Degree (4 years)",
+      "code": "B9M03Q",
+      "name": "DIAGNOSTIC ULTRASOUND",
+      "campus": "DFC",
+      "minimum_aps_text": "31 with Mathematics",
+      "minimum_aps_value": 31,
+      "career": "Practitioners uses high frequency sound waves to produce images of body structures.",
+      "notes": "Technical Mathematics and Technical Sciences are not accepted.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor Degree (4 years)",
+      "code": "B9M02Q",
+      "name": "NUCLEAR MEDICINE",
+      "campus": "DFC",
+      "minimum_aps_text": "31 with Mathematics",
+      "minimum_aps_value": 31,
+      "career": "Practitioners use small amounts of radioactive substances (radio-nuclides) to diagnose and treat diseases.",
+      "notes": "Technical Mathematics and Technical Sciences are not accepted.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor Degree (4 years)",
+      "code": "B9M04Q",
+      "name": "RADIATION THERAPY",
+      "campus": "DFC",
+      "minimum_aps_text": "31 with Mathematics",
+      "minimum_aps_value": 31,
+      "career": "Radiation therapists use high energy radiation such as x-rays, gamma rays, proton or neutrons to treat cancer.",
+      "notes": "Technical Mathematics and Technical Sciences are not accepted.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Health Science (4 years)",
+      "code": "B9C01Q",
+      "name": "CHIROPRACTIC",
+      "campus": "DFC",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Chiropractors treat conditions and injuries that are nerve, muscle or joint related.",
+      "notes": "Applicants are required to undergo a selection process that includes academic results, complete a questionnaire and provide letters of recommendation/observation from two practising Doctors of Chiropractic. Potential applicants will then be invited to attend an interview. Successful applicants are required to complete the Master of Health Sciences in Chiropractic to comply with minimum registration requirements of the AHPCSA.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Physical Science or Life Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Health Science (4 years)",
+      "code": "B9CM1Q",
+      "name": "COMPLEMENTARY MEDICINE",
+      "campus": "DFC",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Acupuncturists, health and wellness industry, patient-services co-ordinator within a multidisciplinary practice, retail and pharmacy assistants, health and lifestyle journalists.",
+      "notes": "The Complementary Medicine programme does not accept applicants who are busy upgrading their matric results. Applicants are required to complete an assignment, visit the on campus Complementary Medicine Clinic and provide a letter of recommendation from a practitioner (Homeopath, accupuncturist or phytotherapist) as a component of the selection process. The graduate will be eligible to register with the Allied Health Professionals Council of South Africa as an acupuncture therapist. Successful graduates are required to complete the master of Health Sciences in Complementary Medicine to comply with minimum registration requirements of AHPCSA for Homeopathy or Phytotherapy.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Physical Science or Life Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Health Science (4 years)",
+      "code": "B9E01Q",
+      "name": "EMERGENCY MEDICAL CARE (EMC)",
+      "campus": "DFC",
+      "minimum_aps_text": "27",
+      "minimum_aps_value": 27,
+      "career": "Emergency Care Practitioners are specialists in the field of emergency care and rescue, focusing on the management of critically ill or injured patients. Career opportunities exist in public and private emergency services, both local and abroad. Holders of the qualification will be entitled to register as independent Emergency Care Practitioners with the HPCSA.",
+      "notes": "Applicants must pass both the fitness assessment, phobias evaluation and the medical examination in order to gain entry into the Emergency Medical Care degree programme.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Health Science (4 years)",
+      "code": "B9B01Q",
+      "name": "MEDICAL LABORATORY SCIENCE",
+      "campus": "DFC",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Medical laboratory scientists analyse clinical specimens submitted to laboratories by medical practitioners, and interpret the results.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Health Science (4 years)",
+      "code": "B9P01Q",
+      "name": "PODIATRY",
+      "campus": "DFC",
+      "minimum_aps_text": "28",
+      "minimum_aps_value": 28,
+      "career": "Podiatrists are health care professionals that deals with the examination, diagnosis, prevention and treatment of conditions and functions of the human foot, lower limb and associated structures. Holders of the qualification will be entitled to register as independent practitioners with the HPCSA.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Technical Science",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Environmental Health (4 years)",
+      "code": "B9ENV1",
+      "name": "ENVIRONMENTAL HEALTH",
+      "campus": "DFC",
+      "minimum_aps_text": "24",
+      "minimum_aps_value": 24,
+      "career": "Environmental Health Practitioners, Occupational Health and Safety Officers, Water Quality and Waste Managers identify, monitor and control physical, chemical and biological hazards that are harmful to human health.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics Literacy",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Nursing (4 years)",
+      "code": "B9N02Q",
+      "name": "NURSING",
+      "campus": "DFC",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "The student will qualify as a professional nurse and midwife who will be to assess health needs and provide care for patients, community members and mothers and babies in a holistically manner to address the quadruple burden of disease as well as social determinants that impact the health of both the community and the entire population.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Optometry (4 years)",
+      "code": "B9O02Q",
+      "name": "B OPTOM",
+      "campus": "DFC",
+      "minimum_aps_text": "34",
+      "minimum_aps_value": 34,
+      "career": "Graduates can pursue careers as optometrists providing primary eye care, specialising in eyes examination to identify and address a spectrum of visual related irregularities, such as vision defects, abnormalities related to injury or ocular disease. Beyond general patient care, other areas include paediatric optometry, low vision or contact lens fitting. Optometrists can engage in research, academia, hospital settings or public health initiatives, private practise, corporate optometry and industry consulting.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Health Sciences Degree (3 years)",
+      "code": "B9SE1Q",
+      "name": "SPORT AND EXERCISE SCIENCE",
+      "campus": "DFC",
+      "minimum_aps_text": "27 with Maths OR 28 with Maths Lit",
+      "minimum_aps_value": 27,
+      "career": "Sport scientist, sport coach, fitness instructor, health and life style instructor/consultant, performance analyst.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Technical Mathematics",
+          "requirement": "Not accepted"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "BCom Degree (3 years)",
+      "code": "B9S14Q",
+      "name": "SPORT MANAGEMENT",
+      "campus": "DFC",
+      "minimum_aps_text": "23 with Mathematics",
+      "minimum_aps_value": 23,
+      "career": "Sport Manager, Sport Marketer, Sport Administrator, Sport Events Organiser, Sport Promoter, Coach or Specialisation in Biokinetics, Sport Science or Sport Management, Researcher, Exercise Scientist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics Literacy",
+          "requirement": "Not accepted"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma (3 years)",
+      "code": "D9S01Q",
+      "name": "SPORT MANAGEMENT",
+      "campus": "DFC",
+      "minimum_aps_text": "22 with Mathematics OR 23 with Mathematical Literacy",
+      "minimum_aps_value": 22,
+      "career": "Sports Administrator, Facilities Manager, Professional Coach, Fitness Trainer, Sports Marketer, Sports Sponsorship Manager, Events Manager and Marketer.",
+      "notes": "The minimum admission requirements for this qualification does not include Physical Science/Technical Science. (Technical Science will be considered if the applicant was enrolled for it as an additional module.)",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Mathematics Literacy",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1774 @@
+{
+  "name": "Faculty of Science",
+  "acronym": "SCI",
+  "general_notes": "Technical Mathematics and Technical Science are not accepted for Degree programmes in the Faculty of Science. Technical Mathematics is accepted for Diploma programmes; Technical Science is not accepted.",
+  "contacts": [
+    {
+      "campus": "APK",
+      "telephone": "011 559 4562 / 011 559 6349",
+      "email": "web-science@uj.ac.za"
+    }
+  ],
+  "programmes": [
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Information Technology (3 years)",
+      "code": "B2I01Q",
+      "name": "INFORMATION TECHNOLOGY",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Information Technology (3 years)",
+      "code": "B2I02Q",
+      "name": "COMPUTER SCIENCE AND INFORMATICS",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Information Technology (3 years)",
+      "code": "B2I04Q",
+      "name": "COMPUTER SCIENCE AND INFORMATICS specialising in AI (Artificial Intelligence)",
+      "campus": "APK",
+      "minimum_aps_text": "34",
+      "minimum_aps_value": 34,
+      "career": "Security Architect, Knowledge Manager, Cyber Crime Investigator, All-Source Analyst, IT Investment/Portfolio Manager, Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "7 (80%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "code": "B2L10Q",
+      "name": "BOTANY AND BIOCHEMISTRY",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Ecologist, Scientist, Researcher, Botanical Technologist, Eskom, Mining Industry, Pharmaceutical Companies, Nature Conservation Scientist, Botanist, Chemical Industry.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+) / 6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "code": "B2L11Q",
+      "name": "BOTANY AND CHEMISTRY",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Ecologist, Scientist, Researcher, Botanical Technologist, Eskom, Mining Industry, Pharmaceutical Companies, Nature Conservation Scientist, Botanist, Chemical Industry.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "code": "B2L12Q",
+      "name": "BOTANY AND ZOOLOGY",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Biologist, Ecologist, Environmentalist, Nature Technologist, Ethno-Botanist, Food Technologist, Geneticist, Parasitologist, Entomologist, Zoologist, Conservationist, Pathologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+) / 6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "code": "B2L13Q",
+      "name": "ZOOLOGY AND BIOCHEMISTRY",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Zoologist, Ecologist, Geneticist, Nature Conservationist, Entomologist, Biochemist, Food Technologist, Environmentalist, Pathologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+) / 6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "code": "B2L14Q",
+      "name": "ZOOLOGY AND CHEMISTRY",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Zoologist, Researcher, Chemical Technologist, Geneticist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "code": "B2L15Q",
+      "name": "ZOOLOGY AND ENVIRONMENTAL MANAGEMENT",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Geo-Information Specialist, Environmental Manager, Population Geneticist, Zoologist, Ecologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "code": "B2L16Q",
+      "name": "ZOOLOGY AND GEOGRAPHY",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Geo-Information Specialist, Environmental Manager, Population Geneticist, Zoologist, Ecologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+) / 6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "code": "B2L17Q",
+      "name": "ZOOLOGY AND PHYSIOLOGY",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Zoologist, Geneticist, Forensic Pathologist, Parasitologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+) / 6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "code": "B2L18Q",
+      "name": "BIOCHEMISTRY AND PHYSIOLOGY",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Biochemist, Biotechnologist, Forensic Pathologist, Researcher.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+) / 6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "code": "B2L26Q",
+      "name": "PHYSIOLOGY AND PSYCHOLOGY",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Analyst, Technologist, Researcher at Sasol, Eskom, Pharmaceutical Companies, Mining Companies, Health Industry, Biologist, Forensic Pathologist, Psychologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+) / 6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "code": "B2L20Q",
+      "name": "GEOLOGY AND GEOGRAPHY",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Geographer, Geologist, Mineralogist, Regional Planner, Site Analyst, Geographical Information Specialist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "code": "B2L24Q",
+      "name": "GEOLOGY AND ENVIRONMENTAL MANAGEMENT",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Geographer, Geologist, Mineralogist, Regional Planner, Site Analyst, GIS Specialist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "code": "B2L25Q",
+      "name": "GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT",
+      "campus": "APK",
+      "minimum_aps_text": "30",
+      "minimum_aps_value": 30,
+      "career": "Location Analyst, Town Planner, Geo-Information Specialist, Environmental Rehabilitation Manager, Geomorphologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "code": "B2M40Q",
+      "name": "APPLIED MATHEMATICS AND COMPUTER SCIENCE",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Computer Programmer, Systems Analyst, Mathematical Modulator.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "code": "B2M41Q",
+      "name": "APPLIED MATHEMATICS AND MATHEMATICAL STATISTICS",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Mathematician, Data compiler, Data Interpreter, Biometrician.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "code": "B2M42Q",
+      "name": "APPLIED MATHEMATICS AND MATHEMATICS",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Mathematical Modulator, Mathematical Adviser.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "code": "B2M43Q",
+      "name": "COMPUTATIONAL SCIENCE",
+      "campus": "APK",
+      "minimum_aps_text": "33",
+      "minimum_aps_value": 33,
+      "career": "Designer of software, specialist in high-tech industry, medical monitors.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "7 (80%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "code": "B2M44Q",
+      "name": "MATHEMATICAL STATISTICS AND COMPUTER SCIENCE",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Computer Programmer, Systems Analyst, Data Compiler and Analyst.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "code": "B2M45Q",
+      "name": "MATHEMATICS AND COMPUTER SCIENCE",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Computer Programmer, Systems Analyst, Mathematical Advisor.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "code": "B2M46Q",
+      "name": "MATHEMATICS AND INFORMATICS",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Computer Programmer, Systems Analyst.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "code": "B2M47Q",
+      "name": "MATHEMATICS AND MATHEMATICAL STATISTICS",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Financial Analyst, Economist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "code": "B2M54Q",
+      "name": "MATHEMATICS AND PSYCHOLOGY",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Mathematician, Teacher, Researcher, Psychologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "code": "B2M55Q",
+      "name": "MATHEMATICS AND MATHEMATICAL STATISTICS (WITH FINANCIAL ORIENTATION)",
+      "campus": "APK",
+      "minimum_aps_text": "33",
+      "minimum_aps_value": 33,
+      "career": "Statistician, Mathematician, Mathematical Data Interpreter, Research Advisor.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "code": "B2M56Q",
+      "name": "MATHEMATICAL STATISTICS AND ECONOMICS (WITH FINANCIAL ORIENTATION)",
+      "campus": "APK",
+      "minimum_aps_text": "33",
+      "minimum_aps_value": 33,
+      "career": "Econometrist, Investment Economist, Biometricist, Economic Journalist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "code": "B2M57Q",
+      "name": "MATHEMATICS AND ECONOMICS (WITH FINANCIAL ORIENTATION)",
+      "campus": "APK",
+      "minimum_aps_text": "33",
+      "minimum_aps_value": 33,
+      "career": "Econometrist, Investment Economist, Consultant.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "code": "B2M52Q",
+      "name": "ACTUARIAL SCIENCE",
+      "campus": "APK",
+      "minimum_aps_text": "40",
+      "minimum_aps_value": 40,
+      "career": "Actuary, Actuarial Analyst, Quantitative Analyst, Risk Manager, Investment Manager, Credit Ratings Analyst, Statistician, Academic.",
+      "notes": "The UJ actuarial science degree offers exemption recommendations for the Actuarial Society of South Africa (ASSA) subjects A111, A112, A113, A211, A212 and A213.",
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "7 (80%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Physical Sciences (3 years)",
+      "code": "B2P70Q",
+      "name": "BIOCHEMISTRY AND CHEMISTRY",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Scientist in the field of food and water, biomedical, biotechnological and agricultural sectors.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Physical Sciences (3 years)",
+      "code": "B2P71Q",
+      "name": "CHEMISTRY AND MATHEMATICS",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Chemistry Technologist, Problem Solver, Researcher.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Physical Sciences (3 years)",
+      "code": "B2P72Q",
+      "name": "CHEMISTRY AND PHYSICS",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Physicist, Chemistry Technologist, Forensic Researcher, Researcher.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Physical Sciences (3 years)",
+      "code": "B2P81Q",
+      "name": "GEOLOGY AND CHEMISTRY",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Geochemist, Exploration Geologist, Forensic Scientist, Expert.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+) / 6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Physical Sciences (3 years)",
+      "code": "B2P82Q",
+      "name": "GEOLOGY AND MATHEMATICS",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Geomathematician, Geologist, Problem Analyst.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Physical Sciences (3 years)",
+      "code": "B2P83Q",
+      "name": "GEOLOGY AND PHYSICS",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Physicist, Geophysicist, Geohydrologist, Geologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+) / 5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Physical Sciences (3 years)",
+      "code": "B2P77Q",
+      "name": "PHYSICS AND APPLIED MATHEMATICS",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Physical Sciences (3 years)",
+      "code": "B2P78Q",
+      "name": "PHYSICS AND MATHEMATICS",
+      "campus": "APK",
+      "minimum_aps_text": "31",
+      "minimum_aps_value": 31,
+      "career": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "6 (70%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Information Technology (Extended)",
+      "code": "B2E02Q",
+      "name": "COMPUTER SCIENCE AND INFORMATICS (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (Extended)",
+      "code": "B2E10Q",
+      "name": "BIOCHEMISTRY AND BOTANY (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Analyst, Technologist, or Researcher at Sasol, Eskom, Pharmaceutical Companies, Mining Companies or in the Health Industry.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (Extended)",
+      "code": "B2E11Q",
+      "name": "BOTANY AND CHEMISTRY (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Biologist, Botanist, Ecologist, Nature Conservation Scientist, Forensic Scientist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (Extended)",
+      "code": "B2E12Q",
+      "name": "BOTANY AND ZOOLOGY (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Biologist, Nature Conservationist, Environmentalist, Ethno-Botanist, Ecologist, Entomologist, Pathologist, Parasitologist, Geneticist, Food Technologist, Zoologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (Extended)",
+      "code": "B2E13Q",
+      "name": "GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Location Analyst, Town Planner, Geo-Information Specialist, Environmental Rehabilitation Manager, Geomorphologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (Extended)",
+      "code": "B2E14Q",
+      "name": "BIOCHEMISTRY AND PHYSIOLOGY (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Biochemist, Biotechnologist, Forensic Pathologist, Researcher.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (Extended)",
+      "code": "B2E22Q",
+      "name": "PHYSIOLOGY AND PSYCHOLOGY (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Analyst, Technologist, Researcher at Sasol, Eskom, Pharmaceutical Companies, Mining Companies, Health Industry, Biologist, Forensic Pathologist, Psychologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (Extended)",
+      "code": "B2E17Q",
+      "name": "ZOOLOGY AND BIOCHEMISTRY (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Zoologist, Ecologist, Geneticist, Nature Conservationist, Entomologist, Biochemist, Food Technologist, Environmentalist, Pathologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (Extended)",
+      "code": "B2E18Q",
+      "name": "ZOOLOGY AND CHEMISTRY (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Zoologist, Researcher, Chemical Technologist, Geneticist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (Extended)",
+      "code": "B2E19Q",
+      "name": "ZOOLOGY AND ENVIRONMENTAL MANAGEMENT (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Geo-Information Specialist, Environmental Manager, Population Geneticist, Zoologist, Ecologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Life and Environmental Sciences (Extended)",
+      "code": "B2E20Q",
+      "name": "ZOOLOGY AND GEOGRAPHY (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Geo-Information Specialist, Environmental Manager, Population Geneticist, Zoologist, Ecologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (Extended)",
+      "code": "B2E40Q",
+      "name": "APPLIED MATHEMATICS AND COMPUTER SCIENCE (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Computer Programmer, Systems Analyst, Mathematical Modulator.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (Extended)",
+      "code": "B2E41Q",
+      "name": "APPLIED MATHEMATICS AND MATHEMATICAL STATISTICS (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Mathematician, Data compiler, Data Interpreter, Biometrician.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (Extended)",
+      "code": "B2E42Q",
+      "name": "APPLIED MATHEMATICS AND MATHEMATICS (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Mathematical Modulator, Mathematical adviser.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (Extended)",
+      "code": "B2E43Q",
+      "name": "MATHEMATICAL STATISTICS AND COMPUTER SCIENCE (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Computer Programmer, Systems Analyst, Data Compiler and Analyst.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (Extended)",
+      "code": "B2E44Q",
+      "name": "MATHEMATICS AND COMPUTER SCIENCE (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Computer Programmer, Systems Analyst, Mathematical Advisor.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (Extended)",
+      "code": "B2E45Q",
+      "name": "MATHEMATICS AND INFORMATICS (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Computer Programmer, Systems Analyst.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (Extended)",
+      "code": "B2E46Q",
+      "name": "MATHEMATICS AND MATHEMATICAL STATISTICS (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Financial Analyst, Economist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Mathematical Sciences (Extended)",
+      "code": "B2E47Q",
+      "name": "MATHEMATICS AND PSYCHOLOGY (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Mathematician, Teacher, Researcher, Psychologist.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Physical Sciences (Extended)",
+      "code": "B2E70Q",
+      "name": "BIOCHEMISTRY AND CHEMISTRY (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Scientist in the field of food and water, and biomedical, biotechnological and agricultural sectors.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "4 (50%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Physical Sciences (Extended)",
+      "code": "B2E71Q",
+      "name": "CHEMISTRY AND MATHEMATICS (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Chemistry, Researcher, Technologist, Problem Solver.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Physical Sciences (Extended)",
+      "code": "B2E72Q",
+      "name": "CHEMISTRY AND PHYSICS (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Physicist, Chemistry Technologist, Forensic Researcher, Researcher.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Physical Sciences (Extended)",
+      "code": "B2E73Q",
+      "name": "PHYSICS AND APPLIED MATHEMATICS (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Degree",
+      "category": "Bachelor of Science in Physical Sciences (Extended)",
+      "code": "B2E74Q",
+      "name": "PHYSICS AND MATHEMATICS (EXTENDED)",
+      "campus": "APK",
+      "minimum_aps_text": "26",
+      "minimum_aps_value": 26,
+      "career": "Problem Solver, Researcher in Astronomy and Energy Sources.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics",
+          "requirement": "5 (60%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma (Extended)",
+      "code": "D2ACXQ",
+      "name": "ANALYTICAL CHEMISTRY (EXTENDED)",
+      "campus": "DFC",
+      "minimum_aps_text": "23",
+      "minimum_aps_value": 23,
+      "career": "Analytical Chemists analyse raw materials and final products to gauge their quality levels.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "Not applicable"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma (Extended)",
+      "code": "D2BTEQ",
+      "name": "BIOTECHNOLOGY (EXTENDED)",
+      "campus": "DFC",
+      "minimum_aps_text": "22",
+      "minimum_aps_value": 22,
+      "career": "Biotechnologists manipulate living cells for application in the baking, brewing, chemical, agricultural and pharmaceutical fields.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    },
+    {
+      "qualification_type": "Diploma",
+      "category": "Diploma (Extended)",
+      "code": "D2FTEQ",
+      "name": "FOOD TECHNOLOGY (EXTENDED)",
+      "campus": "DFC",
+      "minimum_aps_text": "22",
+      "minimum_aps_value": 22,
+      "career": "Food Technologists research the production, processing, preservation, packing and distribution of food.",
+      "notes": null,
+      "subject_requirements": [
+        {
+          "subject": "English",
+          "requirement": "4 (50%+)"
+        },
+        {
+          "subject": "Mathematics / Technical Mathematics",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Physical Science",
+          "requirement": "3 (40%+)"
+        },
+        {
+          "subject": "Life Science",
+          "requirement": "3 (40%+)"
+        }
+      ]
+    }
+  ]
+}
