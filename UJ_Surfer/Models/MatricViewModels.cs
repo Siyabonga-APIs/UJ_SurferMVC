@@ -4,13 +4,11 @@ namespace UJ_Surfer.Models
 {
     public class MatricMarksViewModel
     {
-        // --- 1. Language of Teaching & Learning (English) ---
         [Required(ErrorMessage = "English mark is required")]
         [Range(0, 100, ErrorMessage = "Mark must be between 0 and 100%")]
         [Display(Name = "English (Home Language or First Additional)")]
         public int EnglishMark { get; set; }
 
-        // --- 2. Second Official Language ---
         [Display(Name = "Second Official Language")]
         public string? SecondLanguageName { get; set; } = "isiZulu / Afrikaans / Sepedi / other";
 
@@ -19,7 +17,6 @@ namespace UJ_Surfer.Models
         [Display(Name = "Second Language Mark")]
         public int SecondLanguageMark { get; set; }
 
-        // --- 3. Mathematics ---
         [Required(ErrorMessage = "Mathematics stream is required")]
         [Display(Name = "Mathematics Subject Choice")]
         public MathType SelectedMathType { get; set; } = MathType.Mathematics;
@@ -29,7 +26,6 @@ namespace UJ_Surfer.Models
         [Display(Name = "Mathematics Mark")]
         public int MathMark { get; set; }
 
-        // --- 4. Elective Subject 1 ---
         [Display(Name = "Elective Subject 1")]
         public string? Elective1Name { get; set; }
 
@@ -37,7 +33,6 @@ namespace UJ_Surfer.Models
         [Display(Name = "Elective 1 Mark")]
         public int? Elective1Mark { get; set; }
 
-        // --- 5. Elective Subject 2 ---
         [Display(Name = "Elective Subject 2")]
         public string? Elective2Name { get; set; }
 
@@ -45,7 +40,6 @@ namespace UJ_Surfer.Models
         [Display(Name = "Elective 2 Mark")]
         public int? Elective2Mark { get; set; }
 
-        // --- 6. Elective Subject 3 ---
         [Display(Name = "Elective Subject 3")]
         public string? Elective3Name { get; set; }
 
@@ -53,7 +47,6 @@ namespace UJ_Surfer.Models
         [Display(Name = "Elective 3 Mark")]
         public int? Elective3Mark { get; set; }
 
-        // --- 7. Life Orientation ---
         [Range(0, 100, ErrorMessage = "Mark must be between 0 and 100%")]
         [Display(Name = "Life Orientation (Excluded from APS calculation)")]
         public int? LifeOrientationMark { get; set; }

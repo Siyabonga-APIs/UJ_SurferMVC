@@ -19,7 +19,8 @@ namespace UJ_Surfer.Data
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            base.OnModelCreating(builder); // Critical for Identity mapping
+            base.OnModelCreating(builder); 
+            //Fluent API for mapping EF Core
 
             // Faculty -> Contact (Cascade delete)
             builder.Entity<Faculty>()

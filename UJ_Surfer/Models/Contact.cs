@@ -22,7 +22,6 @@ namespace UJ_Surfer.Models
         [StringLength(150)]
         public string Email { get; set; } = string.Empty;
 
-        // Navigation property
         [ForeignKey(nameof(FacultyId))]
         public virtual Faculty Faculty { get; set; } = null!;
     }

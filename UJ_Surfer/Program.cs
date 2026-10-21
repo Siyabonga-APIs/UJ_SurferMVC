@@ -34,7 +34,7 @@ builder.Services.AddScoped<IEligibilityService, EligibilityService>();
 builder.Services.ConfigureApplicationCookie(options =>
 {
     options.ExpireTimeSpan = TimeSpan.FromMinutes(5);
-    options.SlidingExpiration = true; // resets timer on activity
+    options.SlidingExpiration = true; 
     options.LoginPath = "/Identity/Account/Login";
     options.AccessDeniedPath = "/Identity/Account/AccessDenied";
 });

@@ -16,9 +16,8 @@ namespace UJ_Surfer.Models
         public string Subject { get; set; } = string.Empty;
         [Required]
         [StringLength(150)]
-        public string Requirement { get; set; } = string.Empty; // e.g., "5 (60%+)", "Not accepted"
+        public string Requirement { get; set; } = string.Empty; 
 
-        // Navigation property
         [ForeignKey(nameof(ProgrammeId))]
         public virtual Programme Programme { get; set; } = null!;
     }

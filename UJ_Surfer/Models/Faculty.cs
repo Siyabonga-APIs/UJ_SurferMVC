@@ -16,7 +16,6 @@ namespace UJ_Surfer.Models
 
         public string? GeneralNotes { get; set; }
 
-        // Navigation properties
         public virtual ICollection<Contact> Contacts { get; set; } = new List<Contact>();
         public virtual ICollection<Programme> Programmes { get; set; } = new List<Programme>();
     }

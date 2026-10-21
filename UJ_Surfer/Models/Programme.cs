@@ -11,16 +11,17 @@ namespace UJ_Surfer.Models
         [Required]
         public int FacultyId { get; set; }
 
+        // Degree, Diploma, Extended
         [Required]
         [StringLength(50)]
-        public string QualificationType { get; set; } = string.Empty; // Degree, Diploma, Extended
+        public string QualificationType { get; set; } = string.Empty; 
 
         [Required]
         [StringLength(250)]
         public string Category { get; set; } = string.Empty;
         [Required]
         [StringLength(30)]
-        public string Code { get; set; } = string.Empty; // e.g., B34CAQ, B8BA3Q
+        public string Code { get; set; } = string.Empty; 
 
         [Required]
         [StringLength(200)]
@@ -28,20 +29,19 @@ namespace UJ_Surfer.Models
 
         [Required]
         [StringLength(50)]
-        public string Campus { get; set; } = string.Empty; // APK, DFC, APB, SWC, or combinations
+        public string Campus { get; set; } = string.Empty; 
 
         [Required]
         [StringLength(150)]
-        public string MinimumApsText { get; set; } = string.Empty; // Preserves raw string conditions
+        public string MinimumApsText { get; set; } = string.Empty; 
 
-        public int? MinimumApsValue { get; set; } // Nullable base int for numeric filtering
+        public int? MinimumApsValue { get; set; }
 
         [Required]
         public string Career { get; set; } = string.Empty;
 
         public string? Notes { get; set; }
 
-        // Navigation properties
         [ForeignKey(nameof(FacultyId))]
         public virtual Faculty Faculty { get; set; } = null!;
 

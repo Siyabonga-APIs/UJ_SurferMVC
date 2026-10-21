@@ -52,7 +52,6 @@ namespace UJ_Surfer.Data
             if (model.Elective3Mark.HasValue)
                 levels.Add(ConvertPercentageToNscLevel(model.Elective3Mark.Value));
 
-            // Best 6 subjects excluding Life Orientation (UJ Admission Rules)[cite: 16]
             return levels.OrderByDescending(l => l).Take(6).Sum();
         }
 
@@ -63,7 +62,6 @@ namespace UJ_Surfer.Data
             var secondLangLevel = ConvertPercentageToNscLevel(marks.SecondLanguageMark);
             var mathLevel = ConvertPercentageToNscLevel(marks.MathMark);
 
-            // Normalized dictionary of all subjects entered by user
             var userSubjects = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase)
             {
                 { "english", engLevel },
@@ -77,7 +75,6 @@ namespace UJ_Surfer.Data
                     var cleanName = name.Trim().ToLower();
                     userSubjects[cleanName] = ConvertPercentageToNscLevel(mark.Value);
 
-                    // Add common aliases so matching never fails due to singular/plural
                     if (cleanName.Contains("physical science") || cleanName.Contains("physics"))
                     {
                         userSubjects["physical science"] = ConvertPercentageToNscLevel(mark.Value);
@@ -104,7 +101,6 @@ namespace UJ_Surfer.Data
 
             foreach (var prog in programmes)
             {
-                // 1. APS Gate: user APS must meet minimum base value
                 if (prog.MinimumApsValue.HasValue && userAps < prog.MinimumApsValue.Value)
                 {
                     continue;
@@ -117,7 +113,6 @@ namespace UJ_Surfer.Data
                     var subjName = req.Subject.Trim().ToLower();
                     var reqText = req.Requirement.Trim().ToLower();
 
-                    // Skip purely informational or non-applicable requirement entries[cite: 86]
                     if (reqText.Contains("not applicable") || string.IsNullOrWhiteSpace(reqText))
                     {
                         continue;
